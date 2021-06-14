@@ -1,5 +1,5 @@
 # 16-Puzzle Game:
- Using two Heuristics: Backtracking and Branch & Bound Algorithm.
+ -By using two Heuristics: Backtracking and Branch & Bound Algorithm.
 
 ### Problem statement:
 This program is a game in which numbers are spread randomly and the player is supposed to arrange them in order with the given keys.
