@@ -1,4 +1,4 @@
-# 16-Puzzle Game:
+# 16-Puzzle Game: DAA Course Project
  -By using two Heuristics: Backtracking and Branch & Bound Algorithm.
 
 ### Problem statement:
